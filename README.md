@@ -1,2 +1,2 @@
 # DSA_75_Days_Challenge
-Solutions for 160 Days of DSA + Contests
+Solutions for 75 Days of DSA + Contests
